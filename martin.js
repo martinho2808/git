@@ -1,3 +1,5 @@
 var char = "Hello World"
 
-second CustomElementRegistr
+var myName= "PatrickTung"
+
+second CustomElementRegistrABCDE
