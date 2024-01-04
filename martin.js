@@ -1,3 +1,3 @@
 var char = "Hello World"
 
-second CustomElementRegistr
+// second CustomElementRegistr
